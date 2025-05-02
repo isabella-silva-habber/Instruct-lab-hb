@@ -10,14 +10,14 @@
 
 EDPC801-PROCESSADO POR COMPUTADOR - CONSERVE ESTE DOCUMENTO - VÁLIDO COMO RECIBO APÓS BOA COBRANÇA
 
-EDP Comercial - Comercialização de Energia, S.A. SEDE SOCIAL Avenida 24 de Julho, n.º 12 1249-300 LISBOA
+EMPRESA DE LUZ  - Comercialização de Energia, S.A. SEDE SOCIAL Avenida Julho, n.º 1 LISBOA
 
-Registo na CRC e NIPC 503504564 CAPITAL SOCIAL: € 20 842 `C801100005192870`
+Registo na CRC e NIPC 500000454 CAPITAL SOCIAL: € 20 842 `C801100005192870`
 
 *10501650036E3000000Q$
 
-`HABBER TEC PORTUGAL`
-`AVENIDA MIGUEL BOMBARDA , 36 2 D`
+`EMPRESA DO GATINHO`
+`AVENIDA MIGUEL, 36 2 D`
 `LISBOA`
 `1050-165 LISBOA`
 
@@ -73,8 +73,8 @@ Se enviar fora destas datas, parte do consumo será estimado.
 **OS MEUS DADOS**
 
 **Nome do titular** **IBAN**
-HABBER TEC PORTUGAL PT500007***********046****Banco** BES
-**Morada de fornecimento** **Ident. credor** PTAVENIDA MIGUEL BOMBARDA , 36 D LISBOA
+EMPRESA DO GATINHO PT500007***********046****Banco** BES
+**Morada de fornecimento** **Ident. credor** PTAVENIDA MIGUEL , 36 D LISBOA
 
 **Mandato** P**NIF** **CPE** **(Código Ponto Entrega)**
 508542855 PT 0002 000 115 396 405 AA
