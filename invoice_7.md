@@ -8,15 +8,15 @@
 
 ![a drawing of a person with a black and white background](outputs\invoice_7_image_1_26.png)
 
-EDPC801-PROCESSADO POR COMPUTADOR - CONSERVE ESTE DOCUMENTO - VÁLIDO COMO RECIBO APÓS BOA COBRANÇA
+Empresa3C801-PROCESSADO POR COMPUTADOR - CONSERVE ESTE DOCUMENTO - VÁLIDO COMO RECIBO APÓS BOA COBRANÇA
 
-Luzboa  - Comercialização de Energia, S.A. SEDE SOCIAL Avenida Julho, n.º 1 LISBOA
+Luzboa  - Empresa 3
 
-Registo na CRC e NIPC 500000454 CAPITAL SOCIAL: € 20 842 `C801100005192870`
+Registo na CRC e NIPC 500000000 CAPITAL SOCIAL: € 20 842 `C801100005192870`
 
 *10501650036E3000000Q$
 
-`EMPRESA DO GATINHO`
+`EMPRESASAIDA`
 `AVENIDA MIGUEL, 36 2 D`
 `LISBOA`
 `1050-165 LISBOA`
@@ -55,8 +55,8 @@ conta a partir de:
 **AS MINHAS MENSAGENS**
 
 Conheça todos os descontos, planos de energia e serviços disponíveis em
-edp.pt, através da nossa linha de atendimento 808535353 (dias úteis, das 8h
-às 22h), ou numa loja ou agente EDP.
+Empresa3.pt, através da nossa linha de atendimento 808535353 (dias úteis, das 8h
+às 22h), ou numa loja ou agente.
 
 **O QUE MARCA O MEU CONTADOR**
 
@@ -67,13 +67,13 @@ Leitura **estimada**
 a 13 de dezembro Cheias **3 8 2 5**
 
 Nr Dê as leituras entre 10 de janeiro e 12 de janeiro 2019 através do
-edponline.edp.pt ou do 800 10 53 53 (24h chamada grátis).
+Empresa3online.Empresa3.pt ou do 800 10 53 53 (24h chamada grátis).
 Se enviar fora destas datas, parte do consumo será estimado.
 
 **OS MEUS DADOS**
 
 **Nome do titular** **IBAN**
-EMPRESA DO GATINHO PT500007***********046****Banco** BES
+EMPRESASAIDA PT500007***********046****Banco** BES
 **Morada de fornecimento** **Ident. credor** PTAVENIDA MIGUEL , 36 D LISBOA
 
 **Mandato** P**NIF** **CPE** **(Código Ponto Entrega)**
@@ -84,14 +84,12 @@ Eletricidade 17,25 kVA (simples)
 
 **ÁREA DE CLIENTES E CONTACTOS**
 
-**Contacto a EDP através da minha área de cliente**
-edponline.edp.pt ou através do formulário edp.pt/contactos
+**Contacto a através da minha área de cliente**
 
 **Atendimento a clientes 808 53 53 53**
 Chamada com custo de rede fixa nacional. Dias úteis (8h - 22h)
 
 **Para envio de cartas**
-EDP Comercial, Rua Pólo Norte, 10A. 1998-034 Lisboa
 
 **Leituras e dados pagamento 800 10 53 53**
 Atendimento automático (24h - chamada grátis)
@@ -155,7 +153,7 @@ no valor de 76,44 €. Estes valores são independentes do comercializador.
 **Diferença entre o preço do seu contrato e a tarifa regulada**
 Se optasse pela tarifa regulada, pagaria pelo mesmo consumo de eletricidade desta fatura +1,40 € (não incluindo taxas e impostos).
 Nota: Foram tidos em conta consumos realizados a partir de 1 janeiro de **Oferta em Condições de Preço Regulado**
-Informamos que, de momento, a EDP Comercial não disponibiliza uma oferta comercial equiparada ao regime de tarifa regulada para o seu contrato de energia.
+Informamos que, de momento, a Empresa3 Comercial não disponibiliza uma oferta comercial equiparada ao regime de tarifa regulada para o seu contrato de energia.
 
 **CONTRIBUIÇÃO AUDIOVISUAL** FATURA Nº 30153852391 DE: 13 de dezembro 2018 **VALOR: 3,02 €**
 
@@ -206,11 +204,11 @@ TOTAL 3,02 € | | | |
 
 ![DE ONDE VEM A MINHA ELETRICIDADE?](outputs\invoice_7_image_3_2.png)
 
-EDPC801-PROCESSADO POR COMPUTADOR - CONSERVE ESTE DOCUMENTO - VÁLIDO COMO RECIBO APÓS BOA COBRANÇA
+Empresa3 C801-PROCESSADO POR COMPUTADOR - CONSERVE ESTE DOCUMENTO - VÁLIDO COMO RECIBO APÓS BOA COBRANÇA
 
-EDP Comercial - Comercialização de Energia, S.A. SEDE SOCIAL Avenida 24 de Julho, n.º 12 1249-300 LISBOA
+Empresa3 Comercial - Comercialização de Energia, S.A. SEDE SOCIAL Avenida 24 de Julho, n.º 12 1249-300 LISBOA
 
-Registo na CRC e NIPC 503504564 CAPITAL SOCIAL: € 20 842 184,Saiba mais em **www.edp.pt** e **www.erse.pt**
+Registo na CRC e NIPC 503504564 CAPITAL SOCIAL: € 20 842 184,Saiba mais em **www.Empresa3.pt** e **www.erse.pt**
 
 **CONSUMO MÉDIO MENSAL**
 
