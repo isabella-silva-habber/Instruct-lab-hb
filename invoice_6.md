@@ -10,7 +10,7 @@
 
 EDPC801-PROCESSADO POR COMPUTADOR - CONSERVE ESTE DOCUMENTO - VÁLIDO COMO RECIBO APÓS BOA COBRANÇA
 
-Empresa5 - Comercialização de Energia, S.A. SEDE SOCIAL Avenida 24 de Julho, n.º 12 1249-300 LISBOA
+Empresa 5 - Comercialização de Energia, S.A. SEDE SOCIAL Avenida 24 de Julho, n.º 12 1249-300 LISBOA
 
 Registo na CRC e NIPC 503504500 CAPITAL SOCIAL: € 20 842 `C801100006296016`
 
@@ -148,7 +148,7 @@ no valor de 78,35 €. Estes valores são independentes do comercializador.
 **Diferença entre o preço do seu contrato e a tarifa regulada**
 Se optasse pela tarifa regulada, pagaria pelo mesmo consumo de eletricidade desta fatura -6,89 € (não incluindo taxas e impostos).
 **Oferta em Condições de Preço Regulado**
-Informamos que, de momento, a Empresa5 não disponibiliza uma oferta comercial equiparada ao regime de tarifa regulada para o seu contrato de energia.
+Informamos que, de momento, a Empresa 5 não disponibiliza uma oferta comercial equiparada ao regime de tarifa regulada para o seu contrato de energia.
 
 CONTRIBUIÇÃO AUDIOVISUAL
 FATURA Nº 30206158358 DE: 13 de julho 2020 **VALOR: 3,02 €**
@@ -201,7 +201,7 @@ TOTAL 3,02 € | | | |
 
 EDPC801-PROCESSADO POR COMPUTADOR - CONSERVE ESTE DOCUMENTO - VÁLIDO COMO RECIBO APÓS BOA COBRANÇA
 
-Empresa5 - Comercialização de Energia, S.A. SEDE SOCIAL Avenida 24 de Julho, n.º 12 1249-300 LISBOA
+Empresa 5 - Comercialização de Energia, S.A. SEDE SOCIAL Avenida 24 de Julho, n.º 12 1249-300 LISBOA
 
 Registo na CRC e NIPC 503504500 CAPITAL SOCIAL: € 20 842 **Um cliente residencial tem um consumo médio anual de eletricidade de 2.228**
 **kWh, o que equivale à emissão de cerca de 0,554 ton de CO .**
