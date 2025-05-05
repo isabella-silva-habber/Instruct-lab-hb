@@ -2,10 +2,10 @@ Página 1 de Fatura
 
 Nº Interno da Serie:
 
-Empresa1, Lda
-PCI. Contribuinte Nº:
+Empresa 1, Lda
+PCI. Contribuinte Nº: 509123456
 
-![Empresa1](outputs\invoice_1_image_1_11.png)
+![Empresa 1](outputs\invoice_1_image_1_11.png)
 
 Ilhavo 3830-252 Ilhavo
 
@@ -21,7 +21,7 @@ Software PHC - McDR-Processado por programa certificado nº 0006/AT (20221227.35
 
 1. 104,ATCUD: JJJRG93P-1. 800,00 1 .104,1. 800,1. 104,5 **.904,00**
 
-| Empresa1, Lda | |
+| Empresa 1, Lda | |
 |---------------------------------------------------------|--------|
 | PCI -Creat. Science Park Av. Reg.-Edif TICE Sala 3.2.12 | |
 | 3830-252 Ilhavo | Ilhavo |
