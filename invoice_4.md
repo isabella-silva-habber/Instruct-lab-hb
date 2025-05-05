@@ -4,7 +4,7 @@
 
 ![Contador de Aqua Data de Valor](outputs\invoice_4_image_1_2.png)
 
-![Cliente - HABBER TEC PORTUGAL,](outputs\invoice_4_image_1_3.png)
+![Cliente -](outputs\invoice_4_image_1_3.png)
 
 ![jo Cliente conferir, através do](outputs\invoice_4_image_1_4.png)
 
@@ -30,20 +30,20 @@ Obs
 
 **CONSERVE ESTE DOCUMENTO - VÁLIDO COMO RECIBO APÓS BOA COBRANÇA**
 
-**HABBER TEC PORTUGAL, SA**
+**EMPRESASAIDA, SA**
 **R MÁRIO CASTRIM**
 **14 7 B**
 **1750-447 LISBOA**
 
 CÓD. CLIENTE CÓD. ENTIDADE COD. LOCAL CONTA CLIENTE Nº VALOR
 
-![é EPAL Empresa Portuguesa das Aguas](outputs\invoice_4_image_1_18.png)
+![é](outputs\invoice_4_image_1_18.png)
 
-![Lv EPAL Empresa Portuguesa das](outputs\invoice_4_image_1_19.png)
+![Lv](outputs\invoice_4_image_1_19.png)
 
 Referências para Adesão/Alteração do Débito Direto
 
-Credor - EPAL - Número da Autorização
+Credor - Empresa2 - Número da Autorização
 
 ![(Atendimento a Clientes | 213221](outputs\invoice_4_image_1_23.png)
 
@@ -54,14 +54,14 @@ FATURA nº Período de Faturação(63 DIAS)
 
 **Enviado por Via Eletrónica**
 
-Comunicação leitura no dia 2013.06.Linha gratis 800 201 Site www.epal.pt/EpalNet.html
+Comunicação leitura no dia 2013.06.Linha gratis 800 201 Site 
 Fatura nº 201300666715 2013.04.08 47.13+ 2013.04.22 de Março - Dia Mundial da Água
-EPAL coloca Lisboa no topo da eficiência mundial, devido ao Sistema WONE de Gestão de Redes e Controlo de Perdas de água.
+coloca Lisboa no topo da eficiência mundial, devido ao Sistema WONE de Gestão de Redes e Controlo de Perdas de água.
 Saiba mais em www.epal.pt
 Nova Lei do Arrendamento Urbano
 Se tem um contrato de arrendamento celebrado antes de 15 de novembro de 1990, informe-se dos seus direitos através de:
 LINHA DE ATENDIMENTO 217 231 500/1/2/3;do SÍTIO www.portaldahabitacao.pt/pt/nrau/home ou do ENDEREÇO ELETRÓNICO: arrendamento@ihru.pt
-O vosso horário de funcionamento não consta nos nossos registos. Contactem-nos através de www.epal.pt ou da Linha Atendimento a Clientes 213 221 111.
+O vosso horário de funcionamento não consta nos nossos registos. Contactem-nos através de  ou da Linha Atendimento a Clientes 213 221 111.
 O valor diário da Quota de serviço é calculado pela seguinte fórmula (tarifa mensal x 12 / 365 dias)
 A TRH é um valor faturado e cobrado pela EPAL mas constitui receita do Estado
 
@@ -79,7 +79,7 @@ CONTAS DE ÁGUA
 CONTAS DE TERCEIROS
 IVA
 
-3 1.1 4.1. BRUNO JANZ, 2 005.04.29 0111377 Valor a Pagar 47.13 Débito a partir de 2013.04.![(TALAO DE LEITURA OTICA )](outputs\invoice_4_image_1_47.png)
+3 1.1 4.1., 2 005.04.29 0111377 Valor a Pagar 47.13 Débito a partir de 2013.04.![(TALAO DE LEITURA OTICA )](outputs\invoice_4_image_1_47.png)
 
 **Mensagens**
 
@@ -97,9 +97,9 @@ Morada de Abastecimento -R MÁRIO CASTRIM 14 7 B
 
 Morada Postal (Principal) -R MÁRIO CASTRIM 14 7 B
 
-Endereço eletrónico -tania.domingos@habber.com
+Endereço eletrónico -
 
-Nº Contribuinte -Cliente - HABBER TEC PORTUGAL, SA
+Nº Contribuinte -Cliente - EMPRESASAIDA, SA
 
 <||WXb23TXrUn3Rxz00yNNr89HV||>![Detalhe da Fatura CONTAS DE AGUA](outputs\invoice_4_image_2_0.png)
 
@@ -189,9 +189,9 @@ ERSAR - Entidade Reguladora dos Serviços de Água
 
 e Resíduos
 
-Telef.| 210 052 200 E-mail | geral@ersar.pt
+Telef.| 210 052 200 E-mail | 
 
-Site | www.ersar.pt
+Site |
 
 CML - Câmara Municipal de Lisboa
 
@@ -205,7 +205,6 @@ Linha de Emergência e Socorro - Tel.| 808 215 E-mail | rsb.relacoespublicas@cm-
 
 Site | www.rsblisboa.com.pt
 
-Edifício Atlanta II, R. Abranches
 
 Ferrão, 10-C 1600-001 Lisboa
 
@@ -244,8 +243,6 @@ TX.RECURSOS HÍDR. SAN. ARH
 
 IVA( 6% x31.39) 1.Digitally signed by
 CONTADAGUA
-Date: 2013.04.17:24:58 +01:Location: EPAL Empresa
-Portuguesa das Águas
-Livres, SA
+Date: 2013.04.17:24:58 +01:Location: Empresa 2 
 
 <||WXb23TXrUn3Rxz00yNNr89HV||>
