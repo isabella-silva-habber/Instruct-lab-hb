@@ -43,7 +43,7 @@ CÓD. CLIENTE CÓD. ENTIDADE COD. LOCAL CONTA CLIENTE Nº VALOR
 
 Referências para Adesão/Alteração do Débito Direto
 
-Credor - Empresa2 - Número da Autorização
+Credor - Empresa 4 - Número da Autorização
 
 ![(Atendimento a Clientes | 213221](outputs\invoice_4_image_1_23.png)
 
@@ -99,7 +99,7 @@ Morada Postal (Principal) -R MÁRIO CASTRIM 14 7 B
 
 Endereço eletrónico -
 
-Nº Contribuinte -Cliente - EMPRESASAIDA, SA
+Nº Contribuinte 500987654 -Cliente - EMPRESASAIDA, SA
 
 <||WXb23TXrUn3Rxz00yNNr89HV||>![Detalhe da Fatura CONTAS DE AGUA](outputs\invoice_4_image_2_0.png)
 
