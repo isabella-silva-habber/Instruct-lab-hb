@@ -1,0 +1,111 @@
+version: 3
+domain: invoice_extraction
+created_by: HabberTec
+seed_examples:
+  - context: |
+      A tarefa consiste em extrair informações de faturas, incluindo campos fixos e itens, a partir de documentos PDF. O modelo deve ser capaz de identificar e extrair os seguintes campos fixos:
+      - valor do código do cliente
+      - valor da data
+      - valor da data de pagamento limite
+      - valor do NIF do prestador
+      - valor do nome do prestador
+      - valor do número da fatura
+      - valor do IVA
+      - valor da fatura sem o IVA
+      - valor total da fatura
+      Além disso, é necessário extrair o campo de detalhamento, que contém uma lista de itens. Cada fatura possui uma lista específica de itens, sendo necessário reconhecer os casos particulares.
+      Como exemplo, os itens devem conter os seguintes campos:
+      - descrição dos produtos
+      - quantidade
+      - preço unitário
+      - valor total
+      O modelo deve ser capaz de lidar com diferentes formatos e estilos de faturas, garantindo que as informações sejam extraídas corretamente, mesmo que a formatação varie.
+    questions_and_answers:
+      - question: |
+          Quais as informações extraídas da fatura invoice_1.pdf? Quais as informações extraídas do campo de detalhes da fatura invoice_1.pdf?
+        answer: | 
+          As informações extraídas da fatura invoice_1.pdf são:
+          - valor do código do cliente:
+          - valor da data: 2024-03-07
+          - valor da data de pagamento limite: 06.04.2024
+          - valor do NIF do prestador: 509443666
+          - valor do nome do prestador: Empresa1
+          - valor do número da fatura: FT 2024A1/27
+          - valor do IVA: 1.104,000
+          - valor da fatura sem o IVA: 4.800,000
+          - valor total da fatura: 5.904,00
+          As informações extraídas do campo de detalhes da fatura invoice_1.pdf são:
+          - Referência: SERV
+          - Designação: Serviços de consultoria - Projeto Sage X3 conforme n/ proposta SAGEX3_Usenergy_08082022_002 40%
+          - Quantidade: 1,0
+          - Preço unitário: 4.800,000
+          - Tx IVA: 23,00
+          - Desc:
+          - Total: 4.800,000
+      - question: |
+          Quais as informações extraídas da fatura invoice_4.pdf? Quais as informações extraídas do campo de detalhes da fatura invoice_4.pdf?
+        answer: |
+          As informações extraídas da fatura invoice_4.pdf são:
+          - valor do código do cliente: 19041594
+          - valor da data: 2013.02.01
+          - valor da data de pagamento limite: 2013.04.04
+          - valor do NIF do prestador: 500906840
+          - valor do nome do prestador: Empresa2
+          - valor do número da fatura: 201300666715
+          - valor do IVA: 1.88
+          - valor da fatura sem o IVA: 31.18
+          - valor total da fatura: 47.13
+          As informações extraídas do campo de detalhes da fatura invoice_4.pdf estão listadas por item com quantidades e valores.
+      - question: |
+          Quais as informações extraídas da fatura invoice_6.pdf? Quais as informações extraídas do campo de detalhes da fatura invoice_6.pdf?
+        answer: |
+          As informações extraídas da fatura invoice_6.pdf são:
+          - valor do código do cliente:
+          - valor da data: 13 de julho 2020
+          - valor da data de pagamento limite: 28 JUL 2020
+          - valor do NIF do prestador: 503504500
+          - valor do nome do prestador: Empresa5
+          - valor do número da fatura: 10364233577
+          - valor do IVA: 53,39
+          - valor da fatura sem o IVA: 230.45
+          - valor total da fatura: 288.56
+          As informações do campo de detalhes incluem consumo de eletricidade e taxas/impostos.
+      - question: |
+          Quais as informações extraídas da fatura invoice_7.pdf? Quais as informações extraídas do campo de detalhes da fatura invoice_7.pdf?
+        answer: |
+          As informações extraídas da fatura invoice_7.pdf são:
+          - valor do código do cliente:
+          - valor da data: 13 de dezembro 2018
+          - valor da data de pagamento limite: 2 JAN 2019
+          - valor do NIF do prestador: 500000000
+          - valor do nome do prestador: Empresa3
+          - valor do número da fatura: 10263088620
+          - valor do IVA: 42,38
+          - valor da fatura sem o IVA: 182,92
+          - valor total da fatura: 229,65
+          Inclui itens detalhados na área de eletricidade e taxas.
+      - question: |
+          Quais as informações extraídas da fatura invoice_9.pdf? Quais as informações extraídas do campo de detalhes da fatura invoice_9.pdf?
+        answer: |
+          As informações extraídas da fatura invoice_9.pdf são:
+          - valor do código do cliente: 1.63899707
+          - valor da data: 07-08-2023
+          - valor da data de pagamento limite: 31-07-2023
+          - valor do NIF do prestador: 508542855
+          - valor do nome do prestador: Empresa4
+          - valor do número da fatura: 202313/290548
+          - valor do IVA: 190,59
+          - valor da fatura sem o IVA: 828,64
+          - valor total da fatura: 1.019,23
+          Inclui detalhes de equipamentos e serviços contratados.
+document_outline: |
+  Este documento descreve exemplos de extração de campos fixos e detalhamento de itens de faturas em diversos formatos.
+document:
+  repo: https://github.com/isabella-silva-habber/Instruct-lab-hb.git
+  commit: cca1c5956e2b32692cd6bc8acc81d4aa9f8beae1
+  patterns:
+    - invoice_1.md
+    - invoice_4.md
+    - invoice_6.md
+    - invoice_7.md
+    - invoice_9.md

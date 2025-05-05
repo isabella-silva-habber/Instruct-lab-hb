@@ -1,0 +1,5 @@
+Title of work: Exemplos de faturas para treino de extração de informação
+Link to work: https://github.com/isabella-silva-habber/Instruct-lab-hb
+Revision: cca1c5956e2b32692cd6bc8acc81d4aa9f8beae1
+License of the work: CC-BY-SA-4.0
+Creator names: HabberTec
