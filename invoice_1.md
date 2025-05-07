@@ -9,10 +9,12 @@
 **Número da fatura**: FT 2024A1/27  
 **Data**: 2024-03-07  
 **ATCUD**: JJJRG93P-27  
+**Período de faturação**: não especificado  
+**IBAN**: não especificado  
 
 ## Itens detalhados
 
-**Serviço**: Consultoria Sage X3 
+**Serviço**: Consultoria Sage X3  
 **Quantidade**: 1  
 **Preço unitário**: 4.800,000  
 **Valor IVA / Outros**: 1.104,00  
@@ -20,5 +22,4 @@
 
 ## Notas adicionais
 
-Processado por software PHC - McDR, certificado nº 0006/AT (20221227.35607).  
-Para pagamentos, utilizar o NIB: BPI - 0010.0000.45037520001.36
+Processado por software PHC - McDR, certificado nº 0006/AT (20221227.35607).
