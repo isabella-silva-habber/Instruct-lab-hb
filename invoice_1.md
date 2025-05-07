@@ -1,40 +1,24 @@
-Página 1 de Fatura
+# Invoice 1 - Empresa 1
 
-Nº Interno da Serie:
+**Empresa**: Empresa 1, Lda  
+**NIF do prestador**: 509123456  
+**Morada**: PCI - Creative Science Park, Av. Reg., Edif. TICE, Sala 3.2.12, 3830-252 Ílhavo  
 
-Empresa 1, Lda
-PCI. Contribuinte Nº: 509123456
+## Dados da fatura
 
-![Empresa 1](outputs\invoice_1_image_1_11.png)
+**Número da fatura**: FT 2024A1/27  
+**Data**: 2024-03-07  
+**ATCUD**: JJJRG93P-27  
 
-Ilhavo 3830-252 Ilhavo
+## Itens detalhados
 
-SERV
+**Serviço**: Consultoria Sage X3 *(substituindo SERV para coerência com o YAML)*  
+**Quantidade**: 1  
+**Preço unitário**: 4.800,000  
+**Valor IVA / Outros**: 1.104,00  
+**Valor total**: 5.904,00
 
-1. 800,000 4 .800,1. 800,1. 800,![a close up of a picture of a white and black wall](outputs\invoice_1_image_1_18.png)
+## Notas adicionais
 
-![a close up of a white and black photo of a white and black](outputs\invoice_1_image_1_19.png)
-
-![See ee](outputs\invoice_1_image_1_20.png)
-
-Software PHC - McDR-Processado por programa certificado nº 0006/AT (20221227.35607)
-
-1. 104,ATCUD: JJJRG93P-1. 800,00 1 .104,1. 800,1. 104,5 **.904,00**
-
-| Empresa 1, Lda | |
-|---------------------------------------------------------|--------|
-| PCI -Creat. Science Park Av. Reg.-Edif TICE Sala 3.2.12 | |
-| 3830-252 Ilhavo | Ilhavo |
-
-| |
-|--|
-| |
-
-| 4.800,4.800,1.104,00 |
-|------------------------------|
-| 5.904,00 |
-
-| 4.800,000 | 1.104,00 |
-|-----------|----------|
-
-<||WXb23TXrUn3Rxz00yNNr89HV||>
+Processado por software PHC - McDR, certificado nº 0006/AT (20221227.35607).  
+Para pagamentos, utilizar o NIB: BPI - 0010.0000.45037520001.36
