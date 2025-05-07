@@ -12,7 +12,7 @@
 
 ## Itens detalhados
 
-**Serviço**: Consultoria Sage X3 *(substituindo SERV para coerência com o YAML)*  
+**Serviço**: Consultoria Sage X3 
 **Quantidade**: 1  
 **Preço unitário**: 4.800,000  
 **Valor IVA / Outros**: 1.104,00  
